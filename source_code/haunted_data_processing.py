@@ -43,9 +43,11 @@ if not os.path.exists(input_file):
     print(f"Error: File not found at {os.path.abspath(input_file)}")
     exit(1)
 # Step 3: Read the CSV file into a pandas DataFrame
-df = pd.read_csv(input_file)
+df = pd.read_csv(input_file, header = 0)
+
 print(f"File loaded successfully from: {os.path.abspath(input_file)}")
-# Step 4: Save the DataFrame as a CSV file inside "raw"
+# select city, country, state, and state_abbrev
 df = df[['city', 'country', 'state', 'state_abbrev']]
 df.to_csv(output_file, index=False)
 print(f"File converted successfully: {os.path.abspath(output_file)}")
+
