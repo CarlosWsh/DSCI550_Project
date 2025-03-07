@@ -1,0 +1,2910 @@
+[
+    {
+        "Year": 1994,
+        "State": "Alabama",
+        "Latitude": 32.377,
+        "Longitude": -86.3006,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "06:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "03:50  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "18:14  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "23:31  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "05:10  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:39  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:47  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "19:55  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:24  DT"
+                }
+            ],
+            "tz": -6.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Alaska",
+        "Latitude": 58.3019,
+        "Longitude": -134.4197,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "03:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "02:36  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "20:15  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "23:52  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "02:32  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "03:51  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:59  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "22:08  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "23:26  DT"
+                }
+            ],
+            "tz": -9.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Arizona",
+        "Latitude": 33.4484,
+        "Longitude": -112.074,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "05:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "04:35  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "19:04  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "05:50  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "06:19  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:30  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:41  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:10  DT"
+                }
+            ],
+            "tz": -7.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Arkansas",
+        "Latitude": 34.7465,
+        "Longitude": -92.2896,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "06:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "04:09  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "18:44  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "23:56  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "05:27  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:56  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:11  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:26  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:55  DT"
+                }
+            ],
+            "tz": -6.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "California",
+        "Latitude": 38.575764,
+        "Longitude": -121.478851,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "04:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "04:01  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "18:56  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "23:58  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "05:10  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:42  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:08  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:34  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:05  DT"
+                }
+            ],
+            "tz": -8.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Colorado",
+        "Latitude": 39.7392,
+        "Longitude": -104.9903,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "05:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "03:50  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "18:51  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "23:49  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:59  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:32  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:02  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:31  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:04  DT"
+                }
+            ],
+            "tz": -7.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Connecticut",
+        "Latitude": 41.764,
+        "Longitude": -72.6822,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "07:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "03:30  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "18:41  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "23:35  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:42  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:16  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:52  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:29  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:03  DT"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Delaware",
+        "Latitude": 39.1582,
+        "Longitude": -75.5244,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "07:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "03:49  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "18:46  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "23:46  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "05:04  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:36  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:04  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:32  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:04  DT"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Florida",
+        "Latitude": 30.4383,
+        "Longitude": -84.2807,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "07:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "04:46  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "19:01  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "06:08  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "06:35  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:39  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:42  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:10  DT"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Georgia",
+        "Latitude": 33.749,
+        "Longitude": -84.388,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "07:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "04:39  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "19:09  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "05:58  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "06:27  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:39  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:51  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:20  DT"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Hawaii",
+        "Latitude": 21.307,
+        "Longitude": -157.8584,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "02:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "97%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "05:09  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "18:50  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "06:25  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "06:50  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:33  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:16  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:41  DT"
+                }
+            ],
+            "tz": -10.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Idaho",
+        "Latitude": 43.6178,
+        "Longitude": -116.1997,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "05:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "04:25  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "19:49  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "05:27  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "06:03  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:47  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "21:30  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "22:06  DT"
+                }
+            ],
+            "tz": -7.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Illinois",
+        "Latitude": 39.798,
+        "Longitude": -89.644,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "06:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "03:46  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "18:47  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "23:45  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:58  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:31  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:00  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:30  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:03  DT"
+                }
+            ],
+            "tz": -6.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Indiana",
+        "Latitude": 39.7684,
+        "Longitude": -86.1581,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "07:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "04:32  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "19:32  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "05:44  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "06:17  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:46  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "21:16  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:49  DT"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Iowa",
+        "Latitude": 41.5908,
+        "Longitude": -93.6208,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "06:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "03:58  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "19:08  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "05:06  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:40  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:16  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:52  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:26  DT"
+                }
+            ],
+            "tz": -6.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Kansas",
+        "Latitude": 39.0473,
+        "Longitude": -95.6752,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "06:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "04:13  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "19:10  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "05:25  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:57  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:24  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:52  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:24  DT"
+                }
+            ],
+            "tz": -6.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Kentucky",
+        "Latitude": 38.1868,
+        "Longitude": -84.8753,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "07:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "04:30  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "19:22  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "05:45  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "06:17  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:41  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "21:06  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:38  DT"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Louisiana",
+        "Latitude": 30.4571,
+        "Longitude": -91.1874,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "06:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "04:14  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "18:30  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "23:52  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "05:35  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "06:03  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:06  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:10  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:38  DT"
+                }
+            ],
+            "tz": -6.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Maine",
+        "Latitude": 44.307,
+        "Longitude": -69.7817,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "07:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "03:11  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "18:37  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "23:22  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:18  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "04:55  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:41  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:27  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:03  DT"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Maryland",
+        "Latitude": 38.9784,
+        "Longitude": -76.4922,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "07:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "03:54  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "18:49  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "23:50  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "05:08  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:41  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:08  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:35  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:07  DT"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Massachusetts",
+        "Latitude": 42.3601,
+        "Longitude": -71.0589,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "07:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "03:22  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "18:36  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "23:28  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:33  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:07  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:46  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:25  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:59  DT"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Michigan",
+        "Latitude": 42.7335,
+        "Longitude": -84.5555,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "07:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "04:17  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "19:34  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "05:25  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "06:00  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:40  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "21:20  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:55  DT"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Minnesota",
+        "Latitude": 44.9551,
+        "Longitude": -93.1022,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "06:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "03:45  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "19:17  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:48  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:26  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:14  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "21:02  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:40  DT"
+                }
+            ],
+            "tz": -6.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Mississippi",
+        "Latitude": 32.2988,
+        "Longitude": -90.1848,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "06:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "04:06  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "18:30  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "23:48  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "05:26  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:54  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:02  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:11  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:39  DT"
+                }
+            ],
+            "tz": -6.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Missouri",
+        "Latitude": 38.5767,
+        "Longitude": -92.1735,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "06:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "04:00  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "18:54  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "23:56  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "05:13  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:45  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:10  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:36  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:08  DT"
+                }
+            ],
+            "tz": -6.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Montana",
+        "Latitude": 46.5891,
+        "Longitude": -112.0391,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "05:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "03:59  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "19:42  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:55  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:35  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:30  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "21:25  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "22:04  DT"
+                }
+            ],
+            "tz": -7.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Nebraska",
+        "Latitude": 40.8081,
+        "Longitude": -96.6997,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "06:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "04:13  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "19:19  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "05:22  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:55  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:29  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "21:02  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:35  DT"
+                }
+            ],
+            "tz": -6.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Nevada",
+        "Latitude": 39.1638,
+        "Longitude": -119.7664,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "04:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "03:53  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "18:51  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "23:51  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "05:01  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:33  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:01  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:29  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:01  DT"
+                }
+            ],
+            "tz": -8.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "New Hampshire",
+        "Latitude": 43.2081,
+        "Longitude": -71.5376,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "07:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "03:21  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "18:41  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "23:30  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:31  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:06  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:48  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:30  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:05  DT"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "New Jersey",
+        "Latitude": 40.2206,
+        "Longitude": -74.7691,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "07:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "03:43  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "18:45  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "23:43  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:57  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:30  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:01  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:32  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:05  DT"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "New Mexico",
+        "Latitude": 35.6822,
+        "Longitude": -105.9394,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "05:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "04:04  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "18:44  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "23:53  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "05:18  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:48  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:06  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:23  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:53  DT"
+                }
+            ],
+            "tz": -7.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "New York",
+        "Latitude": 42.6526,
+        "Longitude": -73.7562,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "07:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "03:32  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "18:48  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "23:39  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:42  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:17  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:57  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:36  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:11  DT"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "North Carolina",
+        "Latitude": 35.7804,
+        "Longitude": -78.6391,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "07:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "04:10  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "18:50  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "23:59  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "05:29  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:59  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:16  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:34  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:04  DT"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "North Dakota",
+        "Latitude": 46.8208,
+        "Longitude": -100.7837,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "06:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "04:11  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "19:56  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "05:09  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:49  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:45  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "21:41  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "22:21  DT"
+                }
+            ],
+            "tz": -6.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Ohio",
+        "Latitude": 39.9612,
+        "Longitude": -82.9988,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "07:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "04:18  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "19:19  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "05:31  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "06:03  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:34  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "21:04  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:37  DT"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Oklahoma",
+        "Latitude": 35.4676,
+        "Longitude": -97.5164,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "06:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "04:30  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "19:08  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "05:45  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "06:15  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:32  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:49  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:19  DT"
+                }
+            ],
+            "tz": -6.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Oregon",
+        "Latitude": 44.9429,
+        "Longitude": -123.0351,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "04:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "03:50  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "19:22  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:48  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:26  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:14  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "21:02  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:40  DT"
+                }
+            ],
+            "tz": -8.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Pennsylvania",
+        "Latitude": 40.2732,
+        "Longitude": -76.8867,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "07:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "03:52  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "18:54  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "23:52  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "05:05  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:38  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:09  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:41  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:14  DT"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Rhode Island",
+        "Latitude": 41.8236,
+        "Longitude": -71.4222,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "07:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "03:25  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "18:36  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "23:29  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:36  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:11  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:47  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:24  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:58  DT"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "South Carolina",
+        "Latitude": 34.0007,
+        "Longitude": -81.0348,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "07:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "04:24  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "18:56  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "05:44  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "06:13  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:26  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:39  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:08  DT"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "South Dakota",
+        "Latitude": 44.3668,
+        "Longitude": -100.3538,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "06:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "04:17  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "19:45  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "05:20  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:57  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:43  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "21:29  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "22:06  DT"
+                }
+            ],
+            "tz": -6.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Tennessee",
+        "Latitude": 36.1627,
+        "Longitude": -86.7816,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "06:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "03:43  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "18:25  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "23:33  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "05:00  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:30  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:49  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:08  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:38  DT"
+                }
+            ],
+            "tz": -6.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Texas",
+        "Latitude": 30.2672,
+        "Longitude": -97.7431,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "06:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "04:42  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "18:57  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "06:02  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "06:30  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:33  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:36  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:03  DT"
+                }
+            ],
+            "tz": -6.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Utah",
+        "Latitude": 40.7608,
+        "Longitude": -111.891,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "05:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "04:16  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "19:22  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "05:23  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:56  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:29  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "21:02  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:36  DT"
+                }
+            ],
+            "tz": -7.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Vermont",
+        "Latitude": 44.2624,
+        "Longitude": -72.58,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "07:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "03:23  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "18:49  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "23:34  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:30  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:06  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:52  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:38  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:14  DT"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Virginia",
+        "Latitude": 37.5407,
+        "Longitude": -77.436,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "07:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "04:01  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "18:49  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "23:54  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "05:17  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:49  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:11  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:34  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:05  DT"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Washington",
+        "Latitude": 47.0379,
+        "Longitude": -122.9007,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "04:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "03:42  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "19:29  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:36  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:16  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:13  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "21:10  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:50  DT"
+                }
+            ],
+            "tz": -8.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "West Virginia",
+        "Latitude": 38.3498,
+        "Longitude": -81.6326,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "07:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "04:17  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "19:09  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "05:31  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "06:03  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:28  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:53  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:25  DT"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Wisconsin",
+        "Latitude": 43.0731,
+        "Longitude": -89.4012,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "06:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "03:36  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "18:55  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "23:44  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:43  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:18  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:59  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:40  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:16  DT"
+                }
+            ],
+            "tz": -6.0,
+            "year": 1994
+        }
+    },
+    {
+        "Year": 1994,
+        "State": "Wyoming",
+        "Latitude": 41.1399,
+        "Longitude": -104.8202,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 23,
+                "month": 6,
+                "phase": "Full Moon",
+                "time": "05:33  DT",
+                "year": 1994
+            },
+            "curphase": "Waxing Gibbous",
+            "day": 21,
+            "day_of_week": "Tuesday",
+            "fracillum": "96%",
+            "isdst": true,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Set",
+                    "time": "03:45  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "18:54  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "23:49  DT"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:53  DT"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:27  DT"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "13:01  DT"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:35  DT"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:09  DT"
+                }
+            ],
+            "tz": -7.0,
+            "year": 1994
+        }
+    }
+]

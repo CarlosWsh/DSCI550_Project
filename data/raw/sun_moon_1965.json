@@ -1,0 +1,2958 @@
+[
+    {
+        "Year": 1965,
+        "State": "Alabama",
+        "Latitude": 32.377,
+        "Longitude": -86.3006,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 21,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "23:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Upper Transit",
+                    "time": "05:23  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:15  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:10  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "04:39  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "11:47  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "18:55  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "19:24  ST"
+                }
+            ],
+            "tz": -6.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Alaska",
+        "Latitude": 58.3019,
+        "Longitude": -134.4197,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 21,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "20:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "54%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:31  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "05:41  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:08  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "01:32  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "02:51  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "11:59  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "21:08  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "22:27  ST"
+                }
+            ],
+            "tz": -9.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Arizona",
+        "Latitude": 33.4484,
+        "Longitude": -112.074,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 21,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "22:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:24  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "06:09  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "12:01  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:50  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:19  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:30  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "19:41  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:10  ST"
+                }
+            ],
+            "tz": -7.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Arkansas",
+        "Latitude": 34.7465,
+        "Longitude": -92.2896,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 21,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "23:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:05  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "05:48  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:38  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:26  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "04:56  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:11  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "19:26  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "19:55  ST"
+                }
+            ],
+            "tz": -6.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "California",
+        "Latitude": 38.575764,
+        "Longitude": -121.478851,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 21,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "21:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "54%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:08  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "05:48  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:37  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:10  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "04:42  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:08  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "19:34  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:05  ST"
+                }
+            ],
+            "tz": -8.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Colorado",
+        "Latitude": 39.7392,
+        "Longitude": -104.9903,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 21,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "22:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:02  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "05:40  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:27  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "03:59  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "04:32  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:02  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "19:31  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:04  ST"
+                }
+            ],
+            "tz": -7.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Connecticut",
+        "Latitude": 41.764,
+        "Longitude": -72.6822,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 22,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "00:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Upper Transit",
+                    "time": "05:27  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:10  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "03:42  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "04:16  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "11:52  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "19:29  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:03  ST"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Delaware",
+        "Latitude": 39.1582,
+        "Longitude": -75.5244,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 22,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "00:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:01  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "05:39  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:24  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:04  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "04:36  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:04  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "19:32  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:04  ST"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Florida",
+        "Latitude": 30.4383,
+        "Longitude": -84.2807,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 22,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "00:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:28  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "06:15  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "12:08  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "05:08  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:35  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:39  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "19:42  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:10  ST"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Georgia",
+        "Latitude": 33.749,
+        "Longitude": -84.388,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 22,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "00:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:32  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "06:15  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "12:06  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:58  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:27  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:39  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "19:51  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:20  ST"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Hawaii",
+        "Latitude": 21.307,
+        "Longitude": -157.8584,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 21,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "19:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "53%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:22  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "06:18  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "12:18  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "05:25  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:50  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:33  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "19:16  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "19:41  ST"
+                }
+            ],
+            "tz": -10.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Idaho",
+        "Latitude": 43.6178,
+        "Longitude": -116.1997,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 21,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "22:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:52  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "06:26  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "12:10  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:27  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:03  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:46  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:30  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:06  ST"
+                }
+            ],
+            "tz": -7.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Illinois",
+        "Latitude": 39.798,
+        "Longitude": -89.644,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 21,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "23:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:00  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "05:37  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:23  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "03:58  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "04:30  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:00  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "19:30  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:03  ST"
+                }
+            ],
+            "tz": -6.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Indiana",
+        "Latitude": 39.7684,
+        "Longitude": -86.1581,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 22,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "00:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:45  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "06:23  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "12:08  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:44  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:17  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:46  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:16  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:49  ST"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Iowa",
+        "Latitude": 41.5908,
+        "Longitude": -93.6208,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 21,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "23:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:18  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "05:53  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:38  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:06  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "04:40  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:16  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "19:52  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:26  ST"
+                }
+            ],
+            "tz": -6.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Kansas",
+        "Latitude": 39.0473,
+        "Longitude": -95.6752,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 21,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "23:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:23  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "06:02  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:49  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:25  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "04:57  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:24  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "19:52  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:24  ST"
+                }
+            ],
+            "tz": -6.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Kentucky",
+        "Latitude": 38.1868,
+        "Longitude": -84.8753,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 22,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "00:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:38  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "06:17  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "12:04  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:45  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:16  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:41  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:06  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:38  ST"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Louisiana",
+        "Latitude": 30.4571,
+        "Longitude": -91.1874,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 21,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "23:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Upper Transit",
+                    "time": "05:43  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:36  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:35  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:03  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:06  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "19:10  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "19:38  ST"
+                }
+            ],
+            "tz": -6.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Maine",
+        "Latitude": 44.307,
+        "Longitude": -69.7817,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 22,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "00:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Upper Transit",
+                    "time": "05:15  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "10:56  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "03:18  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "03:55  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "11:41  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "19:27  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:03  ST"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Maryland",
+        "Latitude": 38.9784,
+        "Longitude": -76.4922,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 22,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "00:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:05  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "05:43  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:29  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:08  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "04:40  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:08  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "19:35  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:07  ST"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Massachusetts",
+        "Latitude": 42.3601,
+        "Longitude": -71.0589,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 22,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "00:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Upper Transit",
+                    "time": "05:20  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:03  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "03:32  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "04:07  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "11:46  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "19:24  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "19:59  ST"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Michigan",
+        "Latitude": 42.7335,
+        "Longitude": -84.5555,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 22,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "00:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:43  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "06:16  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:59  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:25  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:00  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:40  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:20  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:55  ST"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Minnesota",
+        "Latitude": 44.9551,
+        "Longitude": -93.1022,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 21,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "23:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:20  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "05:51  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:32  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "03:48  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "04:26  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:14  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:02  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:40  ST"
+                }
+            ],
+            "tz": -6.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Mississippi",
+        "Latitude": 32.2988,
+        "Longitude": -90.1848,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 21,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "23:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Upper Transit",
+                    "time": "05:39  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:31  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:26  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "04:54  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:02  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "19:11  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "19:39  ST"
+                }
+            ],
+            "tz": -6.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Missouri",
+        "Latitude": 38.5767,
+        "Longitude": -92.1735,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 21,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "23:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:09  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "05:47  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:34  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:12  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "04:44  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:10  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "19:36  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:08  ST"
+                }
+            ],
+            "tz": -6.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Montana",
+        "Latitude": 46.5891,
+        "Longitude": -112.0391,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 21,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "22:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:39  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "06:09  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:50  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "03:55  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "04:35  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:30  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:25  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:04  ST"
+                }
+            ],
+            "tz": -7.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Nebraska",
+        "Latitude": 40.8081,
+        "Longitude": -96.6997,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 21,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "23:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:30  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "06:06  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:51  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:22  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "04:55  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:28  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:02  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:35  ST"
+                }
+            ],
+            "tz": -6.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Nevada",
+        "Latitude": 39.1638,
+        "Longitude": -119.7664,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 21,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "21:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "54%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:01  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "05:41  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:29  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:01  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "04:33  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:01  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "19:29  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:01  ST"
+                }
+            ],
+            "tz": -8.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "New Hampshire",
+        "Latitude": 43.2081,
+        "Longitude": -71.5376,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 22,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "00:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Upper Transit",
+                    "time": "05:22  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:04  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "03:31  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "04:06  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "11:48  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "19:29  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:05  ST"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "New Jersey",
+        "Latitude": 40.2206,
+        "Longitude": -74.7691,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 22,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "00:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:00  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "05:36  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:20  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "03:56  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "04:30  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:01  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "19:32  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:05  ST"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "New Mexico",
+        "Latitude": 35.6822,
+        "Longitude": -105.9394,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 21,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "22:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:02  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "05:44  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:34  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:18  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "04:48  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:05  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "19:23  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "19:53  ST"
+                }
+            ],
+            "tz": -7.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "New York",
+        "Latitude": 42.6526,
+        "Longitude": -73.7562,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 22,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "00:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Upper Transit",
+                    "time": "05:32  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:14  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "03:42  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "04:17  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "11:57  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "19:36  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:11  ST"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "North Carolina",
+        "Latitude": 35.7804,
+        "Longitude": -78.6391,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 22,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "00:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:10  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "05:52  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:40  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:28  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "04:59  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:16  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "19:34  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:04  ST"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "North Dakota",
+        "Latitude": 46.8208,
+        "Longitude": -100.7837,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 21,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "23:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:54  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "06:23  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "12:02  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:09  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "04:49  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:45  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:41  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:21  ST"
+                }
+            ],
+            "tz": -6.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Ohio",
+        "Latitude": 39.9612,
+        "Longitude": -82.9988,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 22,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "00:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:33  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "06:10  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:55  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:30  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:03  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:34  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:04  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:37  ST"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Oklahoma",
+        "Latitude": 35.4676,
+        "Longitude": -97.5164,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 21,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "23:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:27  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "06:09  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:59  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:45  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:15  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:32  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "19:48  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:18  ST"
+                }
+            ],
+            "tz": -6.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Oregon",
+        "Latitude": 44.9429,
+        "Longitude": -123.0351,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 21,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "21:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "54%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:22  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "05:55  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:37  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "03:48  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "04:25  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:14  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:02  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:40  ST"
+                }
+            ],
+            "tz": -8.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Pennsylvania",
+        "Latitude": 40.2732,
+        "Longitude": -76.8867,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 22,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "00:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:08  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "05:44  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:29  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:05  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "04:38  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:09  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "19:41  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:14  ST"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Rhode Island",
+        "Latitude": 41.8236,
+        "Longitude": -71.4222,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 22,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "00:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Upper Transit",
+                    "time": "05:22  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:05  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "03:36  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "04:11  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "11:47  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "19:24  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "19:58  ST"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "South Carolina",
+        "Latitude": 34.0007,
+        "Longitude": -81.0348,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 22,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "00:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:18  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "06:02  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:52  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:44  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:13  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:26  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "19:38  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:08  ST"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "South Dakota",
+        "Latitude": 44.3668,
+        "Longitude": -100.3538,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 21,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "23:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:49  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "06:21  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "12:03  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:20  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "04:57  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:43  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:29  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "21:06  ST"
+                }
+            ],
+            "tz": -6.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Tennessee",
+        "Latitude": 36.1627,
+        "Longitude": -86.7816,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 21,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "23:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Upper Transit",
+                    "time": "05:25  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:14  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:00  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "04:30  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "11:49  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "19:07  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "19:38  ST"
+                }
+            ],
+            "tz": -6.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Texas",
+        "Latitude": 30.2672,
+        "Longitude": -97.7431,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 21,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "23:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:23  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "06:10  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "12:04  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "05:02  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:30  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:33  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "19:36  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:03  ST"
+                }
+            ],
+            "tz": -6.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Utah",
+        "Latitude": 40.7608,
+        "Longitude": -111.891,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 21,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "22:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:31  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "06:09  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:55  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:23  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "04:56  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:29  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:02  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:36  ST"
+                }
+            ],
+            "tz": -7.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Vermont",
+        "Latitude": 44.2624,
+        "Longitude": -72.58,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 22,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "00:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Upper Transit",
+                    "time": "05:27  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:07  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "03:30  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "04:06  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "11:52  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "19:38  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:14  ST"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Virginia",
+        "Latitude": 37.5407,
+        "Longitude": -77.436,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 22,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "00:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:07  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "05:47  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:34  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:17  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "04:49  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:11  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "19:34  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:05  ST"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Washington",
+        "Latitude": 47.0379,
+        "Longitude": -122.9007,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 21,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "21:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "54%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:24  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "05:54  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:35  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "03:36  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "04:16  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:13  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "20:10  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:50  ST"
+                }
+            ],
+            "tz": -8.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "West Virginia",
+        "Latitude": 38.3498,
+        "Longitude": -81.6326,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 22,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "00:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:25  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "06:04  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:51  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "04:31  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "05:03  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:28  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "19:53  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:25  ST"
+                }
+            ],
+            "tz": -5.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Wisconsin",
+        "Latitude": 43.0731,
+        "Longitude": -89.4012,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 21,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "23:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:03  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "05:36  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:19  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "03:43  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "04:18  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "11:59  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "19:40  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:16  ST"
+                }
+            ],
+            "tz": -6.0,
+            "year": 1965
+        }
+    },
+    {
+        "Year": 1965,
+        "State": "Wyoming",
+        "Latitude": 41.1399,
+        "Longitude": -104.8202,
+        "Sun and Moon Data": {
+            "closestphase": {
+                "day": 21,
+                "month": 6,
+                "phase": "Last Quarter",
+                "time": "22:36  ST",
+                "year": 1965
+            },
+            "curphase": "Waning Gibbous",
+            "day": 21,
+            "day_of_week": "Monday",
+            "fracillum": "55%",
+            "isdst": false,
+            "label": null,
+            "month": 6,
+            "moondata": [
+                {
+                    "phen": "Rise",
+                    "time": "00:03  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "05:40  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "11:25  ST"
+                }
+            ],
+            "sundata": [
+                {
+                    "phen": "Begin Civil Twilight",
+                    "time": "03:53  ST"
+                },
+                {
+                    "phen": "Rise",
+                    "time": "04:27  ST"
+                },
+                {
+                    "phen": "Upper Transit",
+                    "time": "12:01  ST"
+                },
+                {
+                    "phen": "Set",
+                    "time": "19:35  ST"
+                },
+                {
+                    "phen": "End Civil Twilight",
+                    "time": "20:09  ST"
+                }
+            ],
+            "tz": -7.0,
+            "year": 1965
+        }
+    }
+]
