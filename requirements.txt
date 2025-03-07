@@ -4,3 +4,8 @@ tika
 number_parser
 datefinder
 beautifulsoup4
+tqdm
+transformers
+torch
+accelerate
+nltk
