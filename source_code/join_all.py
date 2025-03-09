@@ -50,9 +50,9 @@ def merge_all():
     # Save the final merged dataset
     if final_df is not None:
         final_df.to_csv(final_output_file, sep="\t", index=False)
-        print(f"✅ Final merged dataset saved at: {os.path.abspath(final_output_file)}")
+        print(f"Final merged dataset saved at: {os.path.abspath(final_output_file)}")
     else:
-        print("❌ Error: No datasets were successfully merged.")
+        print("Error: No datasets were successfully merged.")
 
 # Run the function
 if __name__ == "__main__":
