@@ -34,15 +34,15 @@ def check_file_existence(file_path):
         bool: True if the file exists, otherwise False.
     """
     if not os.path.exists(file_path):
-        print(f" Error: File not found at {os.path.abspath(file_path)}")
+        print(f"❌ Error: File not found at {os.path.abspath(file_path)}")
         return False
     return True
 
 
-# **Step 3: Load the CSV File**
+# **Step 3: Load the CSV File with Explicit Data Types**
 def load_csv(file_path):
     """
-    Loads a CSV file into a Pandas DataFrame.
+    Loads a CSV file into a Pandas DataFrame with predefined data types.
 
     Args:
         file_path (str): The full path of the CSV file.
@@ -50,7 +50,26 @@ def load_csv(file_path):
     Returns:
         pd.DataFrame: The loaded DataFrame.
     """
-    return pd.read_csv(file_path)
+    dtype_mapping = {
+        "city": "string",
+        "country": "string",
+        "description": "string",
+        "location": "string",
+        "state": "string",
+        "state_abbrev": "string",
+        "longitude": "float64",
+        "latitude": "float64",
+        "city_longitude": "float64",
+        "city_latitude": "float64",
+    }
+
+    try:
+        df = pd.read_csv(file_path, dtype=dtype_mapping, low_memory=False)
+    except Exception as e:
+        print(f"❌ Error loading CSV: {e}")
+        return None
+
+    return df
 
 
 # **Step 4: Convert CSV to TSV**
@@ -63,7 +82,7 @@ def convert_csv_to_tsv(df, output_path):
         output_path (str): The path where the TSV file should be saved.
     """
     df.to_csv(output_path, sep='\t', index=False)
-    print(f" File successfully converted to TSV: {os.path.abspath(output_path)}")
+    print(f"✅ File successfully converted to TSV: {os.path.abspath(output_path)}")
 
 
 # **Step 5: Generate a Filtered List (City, Country, State, State Abbreviation)**
@@ -81,15 +100,15 @@ def extract_location_columns(df, output_path):
     available_columns = [col for col in location_columns if col in df.columns]
 
     if not available_columns:
-        print(" Error: None of the expected location columns found in the dataset.")
+        print("❌ Error: None of the expected location columns found in the dataset.")
         return
 
-    df_filtered = df[available_columns]
+    df_filtered = df[available_columns].fillna("Unknown")
     df_filtered.to_csv(output_path, index=False)
-    print(f" Filtered location data saved: {os.path.abspath(output_path)}")
+    print(f"✅ Filtered location data saved: {os.path.abspath(output_path)}")
 
 
-# Main Function
+# **Main Function**
 def main():
     """Main function to handle the entire data processing workflow."""
     paths = define_paths()
@@ -98,10 +117,15 @@ def main():
         return
 
     df = load_csv(paths["csv_file"])
+    if df is None:
+        return  # Exit if CSV loading fails
+
     convert_csv_to_tsv(df, paths["tsv_file"])
     extract_location_columns(df, paths["filtered_list"])
 
+    # print data types
+    print(df.dtypes)
 
-# Execute Main Function
+# **Execute Main Function**
 if __name__ == "__main__":
     main()

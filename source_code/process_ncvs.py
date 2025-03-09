@@ -261,3 +261,50 @@ if "Type of Crime" in df.columns:
         print("Error: None of the specified crime categories were found in the dataset.")
 else:
     print("Error: 'type of crime' column not found in the dataset.")
+
+dtype_mapping = {
+    "Person ID": "string",
+    "Year": "int32",
+    "Quarter": "int8",
+    "Age": "string",
+    "Sex": "string",
+    "Hispanic Origin": "string",
+    "Race": "string",
+    "Race/Hispanic Origin": "string",
+    "Annual Household Income": "string",
+    "Annual Household Income (Imputed)": "string",
+    "Marital Status": "string",
+    "Population Size": "string",
+    "Region": "string",
+    "Household MSA": "string",
+    "Household Locale": "string",
+    "Education Level": "string",
+    "Education Level (Extended)": "string",
+    "Veteran Status": "string",
+    "Citizenship Status": "string",
+    "Aggregate Type of Crime": "string",
+    "Type of Crime": "string",
+    "Violent Crime Excluding Simple Assault": "string",
+    "Reporting to Police": "string",
+    "Victim Services": "string",
+    "Location of Crime": "string",
+    "Victim-Offender Relationship": "string",
+    "Presence of Weapon": "string",
+    "Weapon Category": "string",
+    "Injury": "string",
+    "Type of Injury": "string",
+    "Medical Treatment for Injuries": "string",
+    "Offender Age": "string",
+    "Offender Sex": "string",
+    "Offender Race/Hispanic Origin": "string",
+    "Victimization Weight": "float32",
+    "Series Crime Indicator": "string",
+    "Series Adjusted Victimization Weight": "float32",
+    "Person Population Weight": "float32",
+}
+
+# Load the processed dataset
+df = pd.read_csv(os.path.join(DATA_DIR, "ncvs_personal_combined.tsv"), sep="\t", dtype=dtype_mapping, low_memory=False)
+
+# Display the data types of each column
+print(df.dtypes)

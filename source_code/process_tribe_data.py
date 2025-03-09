@@ -107,6 +107,10 @@ def generate_features(df):
     # Count number of tribes per state and include USGS region
     state_counts = df.groupby(["default_state_province", "usgs_region"]).size().reset_index(name="number_of_tribes")
 
+    # Convert state and usgs_region to string
+    state_counts["state"] = state_counts["default_state_province"].astype("string")
+    state_counts["usgs_region"] = state_counts["usgs_region"].astype("string")
+
     # Calculate the percentage of total tribes per state
     state_counts["percentage_of_total_tribes"] = (state_counts["number_of_tribes"] / state_counts["number_of_tribes"].sum()) * 100
 

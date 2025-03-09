@@ -84,11 +84,37 @@ def save_data_to_files(data, directory, filename_prefix="sun_moon_data_combined"
     """
     df = pd.DataFrame(data)
 
+    # Define explicit data types
+    dtype_mapping = {
+        "Year": "int64",
+        "State": "string",
+        "Latitude": "float64",
+        "Longitude": "float64",
+        "curphase": "string",
+        "fracillum": "string",
+        "Moonrise": "string",
+        "Moon_Upper_Transit": "string",
+        "Moonset": "string",
+        "Sunrise": "string",
+        "Sun_Upper_Transit": "string",
+        "Sunset": "string",
+        "Begin_Civil_Twilight": "string",
+        "End_Civil_Twilight": "string",
+        "Timezone": "string"  # Explicitly ensure Timezone is treated as a string
+    }
+
+    # Apply data types
+    for col, dtype in dtype_mapping.items():
+        if col in df.columns:
+            df[col] = df[col].astype(dtype, errors="ignore")
+
     csv_path = os.path.join(directory, f"{filename_prefix}.csv")
     tsv_path = os.path.join(directory, f"{filename_prefix}.tsv")
 
     df.to_csv(csv_path, index=False)
     df.to_csv(tsv_path, sep="\t", index=False)
+
+    print(df.dtypes)  # Debugging: Print column data types
 
     return csv_path, tsv_path
 
