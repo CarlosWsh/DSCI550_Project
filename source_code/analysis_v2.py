@@ -60,26 +60,29 @@ def merge_and_clean_data(file1_path, file2_path, output_path):
     # Merge only these columns into df2
     merged_df = pd.merge(df2, df1_selected, on="description", how="left")
 
-    # **Step 3: Remove Unwanted Columns**
+    # Step 3: Remove Unwanted Columns
     columns_to_remove = ["Haunted_Place_Date", "Witness_Count"]
     merged_df = merged_df.drop(columns=[col for col in columns_to_remove if col in merged_df.columns], errors='ignore')
 
-    # **Step 4: Format 'HP_date' and Set Nulls to '2025/01/01'**
+    # Step 4: Format 'HP_date' and Set Nulls to '2025/01/01'
     merged_df["HP_date"] = pd.to_datetime(merged_df["HP_date"], errors="coerce").dt.strftime("%Y/%m/%d")
     merged_df["HP_date"] = merged_df["HP_date"].fillna("2025/01/01")  # Replace NaN values
 
-    # **Save to new TSV file**
+    # Step 5: Rename 'HP_date' to 'Haunted_Place_Date' and 'Witness_count' to 'Witness_Count'
+    merged_df = merged_df.rename(columns={"HP_date": "Haunted_Place_Date", "Witness_count": "Witness_Count"})
+
+    # Save to new TSV file
     merged_df.to_csv(output_path, sep="\t", index=False)
     print(f"Merged and cleaned TSV file saved at: {os.path.abspath(output_path)}")
 
 
-# **Main Function**
+# Main Function
 def main():
     """Main function to execute the merging process."""
     paths = define_paths()
     merge_and_clean_data(paths["file1"], paths["file2"], paths["output_file"])
 
 
-# **Execute Main Function**
+# Execute Main Function
 if __name__ == "__main__":
     main()
