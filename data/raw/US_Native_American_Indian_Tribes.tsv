@@ -91,7 +91,7 @@ Barrow	99723	AK	Alaska
 Atqasuk	99791	AK	Alaska
 Wainwright	99782	AK	Alaska
 Point Lay	99759	AK	Alaska
-Artic Village	99722	AK	Alaska
+"Artic Village"	99722	AK	Alaska
 Anaktuvuk Pass	99721	AK	Alaska
 Pt. Hope	99766	AK	Alaska
 Kivalina	99750	AK	Alaska
@@ -104,10 +104,428 @@ Kobuk	99751	AK	Alaska
 Bettles Field	99726	AK	Alaska
 Venetie	99781	AK	Alaska
 Selawik	99770	AK	Alaska
-Allakaket	99720	AK	Alaska
+"Allakaket"	99720	AK	Alaska
 Beaver	99724	AK	Alaska
 Fort Yukon	99740	AK	Alaska
 Chalkyitsik	99788	AK	Alaska
 Shishmaref	99772	AK	Alaska
 Hughes	99745	AK	Alaska
 Huslia	99746	AK	Alaska
+Buckland	99727	AK	Alaska
+Deering	99736	AK	Alaska
+Brevig Mission	99785	AK	Alaska
+Teller	99778	AK	Alaska
+Wales	99783	AK	Alaska
+Diomede	99762	AK	Alaska
+Nome	99762	AK	Alaska
+White Mountain	99784	AK	Alaska
+Elim	99739	AK	Alaska
+Koyuk	99753	AK	Alaska
+Gambell	99742	AK	Alaska
+Savoonga	99769	AK	Alaska
+Shaktoolik	99771-0100	AK	Alaska
+Unalakleet	99684	AK	Alaska
+St. Michael	99659	AK	Alaska
+Stebbins	99671	AK	Alaska
+Kotlik	99620	AK	Alaska
+King Cove	99612	AK	Alaska
+Akiachak	99551	AK	Alaska
+Akiak	99552	AK	Alaska
+Allakeket	99720	AK	Alaska
+St. Mary's	99658	AK	Alaska
+Old Harbor	99643	AK	Alaska
+Angoon	99820	AK	Alaska
+Anvik	99558	AK	Alaska
+Mountain Village	99632	AK	Alaska
+Fairbanks	99701	AK	Alaska
+Juneau	99801	AK	Alaska
+Gakona	99586	AK	Alaska
+Chevak	99563	AK	Alaska
+Chickaloon	99674	AK	Alaska
+Dillingham	99576	AK	Alaska
+Chignik Lake	99548	AK	Alaska
+"Haines"	99827	AK	Alaska
+Haines	99827-2365	AK	Alaska
+Emmonak	99581	AK	Alaska
+Circle	99733	AK	Alaska
+Craig	99921	AK	Alaska
+Egegik	99579	AK	Alaska
+Chugiak	99567-6339	AK	Alaska
+Galena	99741	AK	Alaska
+Holy Cross	99602	AK	Alaska
+Hoonah	99829	AK	Alaska
+Hydaburg	99922	AK	Alaska
+Igiugig	99613	AK	Alaska
+Russian Mission	99657	AK	Alaska
+Anchorage	99507	AK	Alaska
+Kaguyak	99615	AK	Alaska
+Kasigluk	99609	AK	Alaska
+Kenai	99611-0988	AK	Alaska
+Ketchikan	99901	AK	Alaska
+King Salmon	99613	AK	Alaska
+Klawok	99925-0430	AK	Alaska
+Palmer	99645	AK	Alaska
+Kokhanok	99606	AK	Alaska
+Koyukuk	99754	AK	Alaska
+McGrath	99627	AK	Alaska
+Hot Springs	99756	AK	Alaska
+Manokotak	99628	AK	Alaska
+Mentasta	99780	AK	Alaska
+Metlakatla	99926	AK	Alaska
+Naknek	99633	AK	Alaska
+Kodiak	99615	AK	Alaska
+Anchorage	99503	AK	Alaska
+Akutan	99553	AK	Alaska
+Aleknagik	99555	AK	Alaska
+Ambler	99786	AK	Alaska
+Atka	99547	AK	Alaska
+Cantell	99729	AK	Alaska
+Chignik Lagoon	99565	AK	Alaska
+Chitina	99566	AK	Alaska
+Chuathbaluk	99557	AK	Alaska
+Eagle	99738	AK	Alaska
+Eek	99578	AK	Alaska
+Ekwok	99580	AK	Alaska
+Cordova	99574	AK	Alaska
+False Pass	99583	AK	Alaska
+Anchorage	99518	AK	Alaska
+Goodnews Bay	99589-0138	AK	Alaska
+Hooper Bay	99604	AK	Alaska
+Kanatak	99687	AK	Alaska
+Karluk	99608	AK	Alaska
+Kipnuk	99614	AK	Alaska
+Copper Center	99573-0068	AK	Alaska
+Kongiganak	99559-5069	AK	Alaska
+Kwigillingok	99622	AK	Alaska
+Quinhagak	99655	AK	Alaska
+Larsen Bay	99624	AK	Alaska
+Marshall	99585	AK	Alaska
+Mekoryuk	99630	AK	Alaska
+Minto	99758-0026	AK	Alaska
+Nanwalek	99603	AK	Alaska
+Bethel	99559	AK	Alaska
+Napakiak	99634	AK	Alaska
+Nelson Lagoon	99571	AK	Alaska
+Nightmute	99690	AK	Alaska
+Nikolski	99638	AK	Alaska
+Nunam Iqua	99666	AK	Alaska
+Nunapitchuk	99641	AK	Alaska
+Ouzinkie	99644	AK	Alaska
+Perryville	99648	AK	Alaska
+Piolet Point	99469	AK	Alaska
+Port Graham	99603	AK	Alaska
+Port Heiden	99549	AK	Alaska
+Port Lions	99550	AK	Alaska
+Ruby	99768	AK	Alaska
+Scammon Bay	99662	AK	Alaska
+Stevens Village	99774	AK	Alaska
+Tanacross	99776	AK	Alaska
+Tanana	99777	AK	Alaska
+Tatitlek	99677	AK	Alaska
+Glennallen	99588	AK	Alaska
+Tok	99780	AK	Alaska
+Tuntutuliak	99680	AK	Alaska
+Tununak	99681	AK	Alaska
+Tyonek	99682	AK	Alaska
+Sand Point	99661	AK	Alaska
+Nenana	99760	AK	Alaska
+Koliganek	99576	AK	Alaska
+New Stuyahok	99636	AK	Alaska
+Newhalen	99606	AK	Alaska
+Newtok	99559	AK	Alaska
+Nikolai	99691	AK	Alaska
+Ninilchik	99639	AK	Alaska
+Nondalton	99640	AK	Alaska
+Northway	99764	AK	Alaska
+Nulato	99765	AK	Alaska
+Toksook Bay	99637-7048	AK	Alaska
+Grayling	99590	AK	Alaska
+Kake	99830	AK	Alaska
+Ketchikan	99950-0340	AK	Alaska
+Kwethluk	99621-0130	AK	Alaska
+Napaskiak	99559	AK	Alaska
+Pedro Bay	99647	AK	Alaska
+Petersburg	99833	AK	Alaska
+Pilot Station	99650	AK	Alaska
+Plantinum	99651	AK	Alaska
+Dutch Harbor	99692	AK	Alaska
+Rampart	99767	AK	Alaska
+St. George Island	99591	AK	Alaska
+St. Paul Island	99660	AK	Alaska
+Seldovia	99663	AK	Alaska
+Shageluk	99665	AK	Alaska
+Sitka	99835-7505	AK	Alaska
+Skagway	99840-1157	AK	Alaska
+Wasilla	99654	AK	Alaska
+Takotna	99675	AK	Alaska
+Togiak	99678	AK	Alaska
+Tuluksak	99679-0095	AK	Alaska
+Twin Hills	99576	AK	Alaska
+Alakanuk	99554	AK	Alaska
+Aniak	99557	AK	Alaska
+Atmautluak	99559	AK	Alaska
+Chefornak	99561-0110	AK	Alaska
+Clarks Point	99569	AK	Alaska
+Crooked Creek	99575	AK	Alaska
+Fairbanks	99701-0494	AK	Alaska
+Iliamna	99606	AK	Alaska
+Kalskag	99607	AK	Alaska
+Kaltag	99478	AK	Alaska
+Lower Kalskag	99626	AK	Alaska
+Red Devil	99656	AK	Alaska
+Kenai	99611	AK	Alaska
+Sleetmute	99668	AK	Alaska
+Stony River	99557	AK	Alaska
+Wrangell	99929	AK	Alaska
+Yakutat	99689	AK	Alaska
+New Westminster	V5R 2P5	BC	Alaska
+Zwollie	71486	LA	Southeast
+Elton	70532	LA	Southeast
+Trout	71371	LA	Southeast
+Montequt	70377	LA	Southeast
+Marksville	71351	LA	Southeast
+Clinton	28328	NC	Southeast
+Cherokee	28719	NC	Southeast
+Hollister	27844	NC	Southeast
+Pembrook	28372	NC	Southeast
+Ahoskie	27910	NC	Southeast
+Falkville	35622	AL	Southeast
+Elba	36323	AL	Southeast
+Mt Vernon	36560	AL	Southeast
+Birmingham	35242	AL	Southeast
+Atmore	36502	AL	Southeast
+Miami	33125	FL	Southeast
+Bruce	32455	FL	Southeast
+Hollywood	33024	FL	Southeast
+Rock Hill	29730	SC	Southeast
+Choctaw	39350	MS	Southeast
+Palm Springs	92264	CA	Pacific
+Alturas	96101	CA	Pacific
+Coachella	92236	CA	Pacific
+Loleta	95551	CA	Pacific
+Oroville	95966	CA	Pacific
+Arcata	95521	CA	Pacific
+Big Pine	93513	CA	Pacific
+Auberry	93602	CA	Pacific
+Lakeport	95453	CA	Pacific
+Bishop	93514	CA	Pacific
+Blue Lake	95525	CA	Pacific
+Bridgeport	93517	CA	Pacific
+Sacramento	95811	CA	Pacific
+Indio	92203	CA	Pacific
+Colusa	95932	CA	Pacific
+Laytonville	95454	CA	Pacific
+Anza	92539-1760	CA	Pacific
+La Grange	95329	CA	Pacific
+Campo	91906	CA	Pacific
+Lakeside	92040	CA	Pacific
+St, Alturas	96101	CA	Pacific
+Blythe	92363	CA	Pacific
+Trinidad	95570	CA	Pacific
+Jamestown	95327	CA	Pacific
+Cloverdale	95425	CA	Pacific
+Tollhouse	32535	CA	Pacific
+Redwood Valley	95470	CA	Pacific
+Santa Rosa	95403	CA	Pacific
+Clearlake Oaks	95423	CA	Pacific
+Crescent City	95531	CA	Pacific
+Alpine	91901	CA	Pacific
+Rohnert Park	94928	CA	Pacific
+Fort Bidwell	96112	CA	Pacific
+Independence	93526	CA	Pacific
+Needles	92363	CA	Pacific
+Greenville	95947	CA	Pacific
+Elk Creek	95939	CA	Pacific
+Ukiah	95482	CA	Pacific
+Upper Lake	95485	CA	Pacific
+Hoopa	95546	CA	Pacific
+Hopland	95449	CA	Pacific
+Santa Ysabel	92070	CA	Pacific
+Escondido	92025	CA	Pacific
+Plymouth	95669	CA	Pacific
+Jackson	95642	CA	Pacific
+Jamul	91935	CA	Pacific
+San Juan	92675	CA	Pacific
+Happy Camp	96039	CA	Pacific
+Williams	95987	CA	Pacific
+Santa Rosa	95402	CA	Pacific
+Pauma Valley	92061	CA	Pacific
+Boulevard	91905	CA	Pacific
+Lone Pine	93545	CA	Pacific
+Warner Springs	92086	CA	Pacific
+Point Arena	95468	CA	Pacific
+Chico	95926	CA	Pacific
+Middletown	95461	CA	Pacific
+Banning	92220	CA	Pacific
+North Fork	93643	CA	Pacific
+Pala	92059	CA	Pacific
+Corning	96021	CA	Pacific
+Temecula	92392	CA	Pacific
+Oakhurst	93644	CA	Pacific
+Burney	96013	CA	Pacific
+Fort Jones	96032	CA	Pacific
+Anza	92539	CA	Pacific
+Redding	96001	CA	Pacific
+Klamath	95548	CA	Pacific
+Valley Center	92082	CA	Pacific
+Nice	95464	CA	Pacific
+Highland	92346	CA	Pacific
+Mountain Center	92561	CA	Pacific
+Lemoore	93245	CA	Pacific
+Santa Ynez	93460	CA	Pacific
+Concord	94518	CA	Pacific
+Willits	95490	CA	Pacific
+Placerville	95667	CA	Pacific
+Smith River	95567	CA	Pacific
+San Jacinto	92583	CA	Pacific
+Susanville	96130	CA	Pacific
+El Cajon	92019	CA	Pacific
+Friant	93626	CA	Pacific
+Bakersfield	93309	CA	Pacific
+Thermal	92274	CA	Pacific
+Porterville	93257	CA	Pacific
+Tuolumne	95379	CA	Pacific
+Auburn	95603	CA	Pacific
+Benton	93512	CA	Pacific
+Elk Grove	95624	CA	Pacific
+Duckwater	89314	NV	Pacific
+Elko	89801	NV	Pacific
+Ely	89301	NV	Pacific
+McDermitt	89421	NV	Pacific
+Las Vegas	89016	NV	Pacific
+Lovelock	89419	NV	Pacific
+Moapa	89025	NV	Pacific
+Fallon	89406-9159	NV	Pacific
+Nixon	89424	NV	Pacific
+Reno	89502	NV	Pacific
+Owyhee	89832	NV	Pacific
+Sparks	89431-4337	NV	Pacific
+Schurz	89427	NV	Pacific
+Gardnerville	89410	NV	Pacific
+Reno	89509	NV	Pacific
+Yerington	89447	NV	Pacific
+Austin	89310	NV	Pacific
+Poplar	59255	MT	Northwest
+Browning	59417	MT	Northwest
+Box Elder	59521	MT	Northwest
+Pablo	59855	MT	Northwest
+Crow Agency	59022	MT	Northwest
+Harlem	59526	MT	Northwest
+Great Falls	59404	MT	Northwest
+Lame Deer	59043	MT	Northwest
+Burns	97720	OR	Northwest
+Coos Bay	97420	OR	Northwest
+Siletz	97380	OR	Northwest
+Grand Ronde	97347-9712	OR	Northwest
+	97801-0638	OR	Northwest
+Warm Springs	97761	OR	Northwest
+Plummer	83851	ID	Northwest
+Bonners Ferry	83805	ID	Northwest
+Lapwai	83540	ID	Northwest
+Fort Hall	83203	ID	Northwest
+Ethete	82520	WY	Northwest
+Fort Washakie	82514	WY	Northwest
+Bay Center	98527	WA	Northwest
+Toppenish	98948	WA	Northwest
+Oakville	98568	WA	Northwest
+Nespelem	99155	WA	Northwest
+Longview	98632	WA	Northwest
+Forks	98331	WA	Northwest
+Sequim	98382-7670	WA	Northwest
+Cusick	99119	WA	Northwest
+Port Angeles	98363	WA	Northwest
+Bellingham	98226-9221	WA	Northwest
+Neah Bay	98357	WA	Northwest
+Auburn	98092-9763	WA	Northwest
+Olympia	98513-9199	WA	Northwest
+Deming	98244	WA	Northwest
+Kingston	98346-9700	WA	Northwest
+Tacoma	98404-4926	WA	Northwest
+La Push	98350	WA	Northwest
+Taholah	98587	WA	Northwest
+Anacortes	98221	WA	Northwest
+Darrington	98241-9421	WA	Northwest
+Tokeland	98590	WA	Northwest
+Shelton	98584-9748	WA	Northwest
+Snoqualmie	98065	WA	Northwest
+Wellpinit	99040	WA	Northwest
+Shelton	98584-9200	WA	Northwest
+Arlington	98223	WA	Northwest
+Suquamish	98392	WA	Northwest
+LaConner	98257-9450	WA	Northwest
+Tulalip	98271-9775	WA	Northwest
+Sedro Woolley	98284-9739	WA	Northwest
+Seneca Falls	13148	NY	Northeast
+Oneida	13421	NY	Northwest
+Nedrow	13120	NY	Northwest
+Akwesasne	13655	NY	Northwest
+Irving	14081	NY	Northwest
+Southampton	11968	NY	Northeast
+Basom	14013	NY	Northwest
+Lewistown	14092	NY	Northwest
+Presque Isle	04769	ME	Northwest
+Littleton	04730	ME	Northwest
+Indian Twp	04668	ME	Northeast
+Perry	04667	ME	Northwest
+Indian Island	04468	ME	Northwest
+Providence Forge	23140	VA	Northwest
+Capron	23829	VA	Northwest
+King William	23086	VA	Northeast
+Indian Neck	23148	VA	Northwest
+North Stonington	06359	CT	Northwest
+Mashantucket	06338	CT	Northwest
+Uncasville	06382	CT	Northwest
+Derby	06418	CT	Northeast
+Dover	19901	DE	Northwest
+Millsboro	19966	DE	Northwest
+Mashpee	02649	MA	Northwest
+Aquinnah	02535-1546	MA	Northwest
+Bridgeton	08302	NJ	Northeast
+Charlestown	02813	RI	Northwest
+			Northwest
+Brimley	49715	MI	Midwest
+Peshawbestown	49682-9275	MI	Midwest
+Wilson	49896-9728	MI	Midwest
+Baraga	49908	MI	Midwest
+Watersmeet	49969	MI	Midwest
+Muskegon	49441	MI	Midwest
+Harbor Springs	49740	MI	Midwest
+Shelbyville	49344	MI	Midwest
+Fulton	49052	MI	Midwest
+Dowagiac	49047	MI	Midwest
+Mt. Pleasant	48858	MI	Midwest
+Saul Ste. Marie	49783	MI	Midwest
+Odanah	54861	WI	Midwest
+Crandon	54520	WI	Midwest
+Black River Falls	54615	WI	Midwest
+Hayward	54843	WI	Midwest
+Lac du Flambeau	54538	WI	Midwest
+Keshena	54135	WI	Midwest
+Oneida	54155	WI	Midwest
+Bayfield	54814	WI	Midwest
+Webster	54893	WI	Midwest
+Bowler	54416	WI	Midwest
+Eagle Butte	57625	SD	Midwest
+Fort Thompson	57339	SD	Midwest
+Flandreau	57028	SD	Midwest
+Lower Brule	57548	SD	Midwest
+Pine Ridge	57770	SD	Midwest
+Rosebud	57570	SD	Midwest
+Agency Village	57262	SD	Midwest
+Wagner	57380	SD	Midwest
+Nett Lake	55772	MN	Midwest
+Morton	56270	MN	Midwest
+Cass Lake	56633	MN	Midwest
+Welch	55089	MN	Midwest
+Red Lake	56671	MN	Midwest
+Prior Lake	55372-9077	MN	Midwest
+Granite Falls	56421	MN	Midwest
+Macy	68039	NE	Midwest
+Niobrara	68760	NE	Midwest
+Niobrara	68760-7219	NE	Midwest
+Winnebago	68071	NE	Midwest
+Fort Totten	58335	ND	Midwest
+Fort Yates	58538	ND	Midwest
+New Town	58763	ND	Midwest
+Belcourt	58316	ND	Midwest
+Tama	52339-9629	IA	Midwest

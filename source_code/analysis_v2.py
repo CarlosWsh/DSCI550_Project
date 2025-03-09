@@ -24,7 +24,8 @@ def define_paths():
 def merge_and_clean_data(file1_path, file2_path, output_path):
     """
     Merges only the 'HP_date' and 'Witness_count' columns from hp_with_date_and_witness_count.tsv
-    into hp_analysis_v1.tsv, removes 'Haunted_Place_Date' & 'Witness_Count', and formats 'HP_date'.
+    into hp_analysis_v1.tsv, removes 'Haunted_Place_Date' & 'Witness_Count', formats 'HP_date',
+    and adds a 'Year' column.
 
     Args:
         file1_path (str): Path to the first TSV file.
@@ -68,7 +69,13 @@ def merge_and_clean_data(file1_path, file2_path, output_path):
     merged_df["HP_date"] = pd.to_datetime(merged_df["HP_date"], errors="coerce").dt.strftime("%Y/%m/%d")
     merged_df["HP_date"] = merged_df["HP_date"].fillna("2025/01/01")  # Replace NaN values
 
-    # Step 5: Rename 'HP_date' to 'Haunted_Place_Date' and 'Witness_count' to 'Witness_Count'
+    # Step 5: Extract 'Year' from 'HP_date'
+    merged_df["Year"] = pd.to_datetime(merged_df["HP_date"], errors="coerce").dt.year.fillna(2025).astype(int)
+
+    # Step 6: Extract 'Quarter' from 'HP_date'
+    merged_df["Quarter"] = pd.to_datetime(merged_df["HP_date"], errors="coerce").dt.quarter.fillna(1).astype(int)
+
+    # Step 7: Rename 'HP_date' to 'Haunted_Place_Date' and 'Witness_count' to 'Witness_Count'
     merged_df = merged_df.rename(columns={"HP_date": "Haunted_Place_Date", "Witness_count": "Witness_Count"})
 
     # Save to new TSV file
