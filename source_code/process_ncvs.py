@@ -226,41 +226,28 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)  # Ensure the output directory exists
 
 df = pd.read_csv(os.path.join(DATA_DIR, "ncvs_personal_combined.csv"))
 
-# Transform "type of crime" into separate columns by creating dummy variables
+# Define the required crime categories
+crime_categories = ["Personal theft/larceny", "Robbery", "Simple assault", "Aggravated assault", "Rape/sexual assault"]
+
 if "Type of Crime" in df.columns:
+    # Create dummy variables for crime types
     crime_dummies = pd.get_dummies(df["Type of Crime"], prefix="", prefix_sep="").groupby(df.index).sum()
     df = pd.concat([df, crime_dummies], axis=1)
 
-    # Define the required crime categories again
-    crime_categories = ["Personal theft/larceny", "Robbery", "Simple assault", "Aggravated assault", "Rape/sexual assault"]
-
-    # Check which columns exist
+    # Select only the required crime categories
     available_crime_categories = [col for col in crime_categories if col in df.columns]
 
     if available_crime_categories:
-        # Group by 'year', 'quarter', 'offender age', 'offender sex', and 'presence of weapon'
-        grouped_df = df.groupby(["Year", "Quarter", "Offender Age", "Offender Sex", "Presence of Weapon"])[available_crime_categories].sum().reset_index()
-
-        # Pivot the data to expand "offender age", "offender sex", and "presence of weapon" into separate columns
-        pivoted_df = grouped_df.pivot_table(
-            index=["Year", "Quarter"],
-            columns=["Offender Age", "Offender Sex", "Presence of Weapon"],
-            values=available_crime_categories,
-            aggfunc="sum",
-            fill_value=0
-        )
-
-        # Flatten MultiIndex columns for better readability
-        pivoted_df.columns = [f"{col[0]} - {col[1]} - {col[2]} - {col[3]}" for col in pivoted_df.columns]
-        pivoted_df.reset_index(inplace=True)
+        # Group by 'Year' and 'Quarter' while summing the required crime categories
+        grouped_df = df.groupby(["Year", "Quarter"])[available_crime_categories].sum().reset_index()
 
         # Save the processed data as a TSV file
         output_file = os.path.join(OUTPUT_DIR, "ncvs_personal_engineered.tsv")
-        pivoted_df.to_csv(output_file, sep="\t", index=False)
+        grouped_df.to_csv(output_file, sep="\t", index=False)
     else:
         print("Error: None of the specified crime categories were found in the dataset.")
 else:
-    print("Error: 'type of crime' column not found in the dataset.")
+    print("Error: 'Type of Crime' column not found in the dataset.")
 
 dtype_mapping = {
     "Person ID": "string",
