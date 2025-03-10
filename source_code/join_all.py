@@ -47,6 +47,8 @@ def merge_all():
         else:
             print(f"⚠️ Warning: {file} not found, skipping merge.")
 
+    #rename column haunted_place_date to hp_date
+    final_df.rename(columns = {'haunted_place_date':'hp_date'}, inplace = True)
     # Save the final merged dataset
     if final_df is not None:
         final_df.to_csv(final_output_file, sep="\t", index=False)
