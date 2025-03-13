@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>D3 Icicle Chart - Group Structure</title>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <style>
+        body { font-family: sans-serif; background-color: #f9f9f9; text-align: center; }
+        h2 { color: #333; }
+        .node rect {
+            stroke: #fff;
+            stroke-width: 2px;
+            transition: fill 0.3s ease;
+        }
+        .node rect:hover {
+            fill: #ffcc00 !important;
+        }
+        .node text {
+            font-size: 14px;
+            font-weight: bold;
+            fill: black;
+            text-anchor: middle;
+            pointer-events: none;
+        }
+        .tooltip {
+            position: absolute;
+            background-color: rgba(0, 0, 0, 0.8);
+            color: white;
+            padding: 8px;
+            border-radius: 5px;
+            font-size: 12px;
+            visibility: hidden;
+        }
+    </style>
+</head>
+<body>
+    <h2>Icicle Chart of Group Structure</h2>
+    <div id="tooltip" class="tooltip"></div>
+    <svg width="1200" height="600"></svg>
+    <script>
+        d3.json("levelCluster.json").then(function(data) {
+            if (!data) {
+                console.error("Invalid or empty data");
+                return;
+            }
+
+            function filterGroups(node) {
+                return {
+                    name: node.name,
+                    children: node.children ? node.children.map(filterGroups) : []
+                };
+            }
+
+            const filteredData = filterGroups(data);
+            const width = 1200, height = 600;
+            const tooltip = d3.select("#tooltip");
+
+            const svg = d3.select("svg")
+                .attr("width", width)
+                .attr("height", height)
+              .append("g")
+                .attr("transform", "translate(0,0)");
+
+            const root = d3.hierarchy(filteredData).sum(d => 1);
+            d3.partition().size([width, height])(root);
+
+            const nodes = svg.selectAll(".node")
+                .data(root.descendants())
+                .enter().append("g")
+                .attr("class", "node")
+                .attr("transform", d => `translate(${d.x0},${d.y0})`);
+
+            nodes.append("rect")
+                .attr("width", d => d.x1 - d.x0)
+                .attr("height", d => d.y1 - d.y0)
+                .attr("fill", (d, i) => d3.interpolateCool(i / root.descendants().length))
+                .on("mouseover", function(event, d) {
+                    tooltip.style("visibility", "visible")
+                        .html(`Group: ${d.data.name}`)
+                        .style("left", (event.pageX + 10) + "px")
+                        .style("top", (event.pageY - 10) + "px");
+                    d3.select(this).attr("fill", "#ffcc00");
+                })
+                .on("mousemove", function(event) {
+                    tooltip.style("left", (event.pageX + 10) + "px")
+                        .style("top", (event.pageY - 10) + "px");
+                })
+                .on("mouseout", function() {
+                    tooltip.style("visibility", "hidden");
+                    d3.select(this).attr("fill", d => d3.interpolateCool(d.depth / root.height));
+                });
+
+            nodes.append("text")
+                .attr("x", d => (d.x1 - d.x0) / 2)
+                .attr("y", d => (d.y1 - d.y0) / 2)
+                .attr("dy", "0.35em")
+                .text(d => d.data.name ? d.data.name.substring(0, 15) : "")
+                .style("display", d => (d.x1 - d.x0 > 50) ? "block" : "none");
+        }).catch(error => console.error("Error loading JSON:", error));
+    </script>
+</body>
+</html>

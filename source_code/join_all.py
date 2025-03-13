@@ -45,7 +45,7 @@ def merge_all():
                 common_columns = list(set(final_df.columns) & set(df.columns))
                 final_df = pd.merge(final_df, df, on=common_columns, how="outer")
         else:
-            print(f"⚠️ Warning: {file} not found, skipping merge.")
+            print(f"Warning: {file} not found, skipping merge.")
 
     #rename column haunted_place_date to hp_date
     final_df.rename(columns = {'haunted_place_date':'hp_date'}, inplace = True)

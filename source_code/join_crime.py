@@ -48,7 +48,7 @@ def crime_merge(hp_file, ncvs_personal_file, output_file):
 
     # Save to new TSV file
     merged_df.to_csv(output_file, sep="\t", index=False)
-    print(f"✅ Merged TSV file saved at: {os.path.abspath(output_file)}")
+    print(f"Merged TSV file saved at: {os.path.abspath(output_file)}")
 
 
 # Define file paths

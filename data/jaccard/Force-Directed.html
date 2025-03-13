@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>D3 Force-Directed Graph</title>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <style>
+        body { font-family: sans-serif; }
+        .link {
+            stroke: #aaa;
+            stroke-width: 1.5px;
+        }
+        .node {
+            fill: #ff7f0e;
+            stroke: #fff;
+            stroke-width: 1.5px;
+        }
+        .tooltip {
+            position: absolute;
+            background-color: rgba(0, 0, 0, 0.7);
+            color: white;
+            padding: 5px;
+            border-radius: 5px;
+            font-size: 12px;
+            visibility: hidden;
+        }
+    </style>
+</head>
+<body>
+    <h2>Force-Directed Graph of Clustered Data</h2>
+    <div id="tooltip" class="tooltip"></div>
+    <svg width="960" height="600"></svg>
+    <script>
+        d3.json("clusters.json").then(function(data) {
+            if (!data || !data.children) {
+                console.error("Invalid or empty data");
+                return;
+            }
+
+            const width = 960, height = 600;
+            const svg = d3.select("svg")
+                .attr("width", width)
+                .attr("height", height);
+
+            const nodes = [], links = [];
+
+            function traverse(node, parent) {
+                if (parent) {
+                    links.push({ source: parent.name, target: node.name });
+                }
+                nodes.push({ name: node.name });
+                if (node.children) {
+                    node.children.forEach(child => traverse(child, node));
+                }
+            }
+            traverse(data, null);
+
+            const simulation = d3.forceSimulation(nodes)
+                .force("link", d3.forceLink(links).id(d => d.name).distance(200))
+                .force("charge", d3.forceManyBody().strength(0))
+                .force("center", d3.forceCenter(width / 2, height / 2))
+                .force("collide", d3.forceCollide().radius(5));
+
+            const link = svg.selectAll(".link")
+                .data(links)
+                .enter().append("line")
+                .attr("class", "link");
+
+            const node = svg.selectAll(".node")
+                .data(nodes)
+                .enter().append("circle")
+                .attr("class", "node")
+                .attr("r", 6)
+                .call(drag(simulation));
+
+            node.append("title")
+                .text(d => d.name);
+
+            simulation.on("tick", function() {
+                link.attr("x1", d => d.source.x)
+                    .attr("y1", d => d.source.y)
+                    .attr("x2", d => d.target.x)
+                    .attr("y2", d => d.target.y);
+
+                node.attr("cx", d => d.x)
+                    .attr("cy", d => d.y);
+            });
+
+            function drag(simulation) {
+                return d3.drag()
+                    .on("start", function(event, d) {
+                        if (!event.active) simulation.alphaTarget(0.3).restart();
+                        d.fx = d.x;
+                        d.fy = d.y;
+                    })
+                    .on("drag", function(event, d) {
+                        d.fx = event.x;
+                        d.fy = event.y;
+                    })
+                    .on("end", function(event, d) {
+                        if (!event.active) simulation.alphaTarget(0);
+                        d.fx = null;
+                        d.fy = null;
+                    });
+            }
+        }).catch(error => console.error("Error loading JSON:", error));
+    </script>
+</body>
+</html>

@@ -34,7 +34,7 @@ def check_file_existence(file_path):
         bool: True if the file exists, otherwise False.
     """
     if not os.path.exists(file_path):
-        print(f"❌ Error: File not found at {os.path.abspath(file_path)}")
+        print(f"Error: File not found at {os.path.abspath(file_path)}")
         return False
     return True
 
@@ -66,7 +66,7 @@ def load_csv(file_path):
     try:
         df = pd.read_csv(file_path, dtype=dtype_mapping, low_memory=False)
     except Exception as e:
-        print(f"❌ Error loading CSV: {e}")
+        print(f"Error loading CSV: {e}")
         return None
 
     return df
@@ -82,7 +82,7 @@ def convert_csv_to_tsv(df, output_path):
         output_path (str): The path where the TSV file should be saved.
     """
     df.to_csv(output_path, sep='\t', index=False)
-    print(f"✅ File successfully converted to TSV: {os.path.abspath(output_path)}")
+    print(f"File successfully converted to TSV: {os.path.abspath(output_path)}")
 
 
 # **Step 5: Generate a Filtered List (City, Country, State, State Abbreviation)**
@@ -100,12 +100,12 @@ def extract_location_columns(df, output_path):
     available_columns = [col for col in location_columns if col in df.columns]
 
     if not available_columns:
-        print("❌ Error: None of the expected location columns found in the dataset.")
+        print("Error: None of the expected location columns found in the dataset.")
         return
 
     df_filtered = df[available_columns].fillna("Unknown")
     df_filtered.to_csv(output_path, index=False)
-    print(f"✅ Filtered location data saved: {os.path.abspath(output_path)}")
+    print(f"Filtered location data saved: {os.path.abspath(output_path)}")
 
 
 # **Main Function**

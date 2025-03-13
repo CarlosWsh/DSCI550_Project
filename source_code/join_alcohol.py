@@ -34,7 +34,7 @@ def alcohol_merge(hp_file, alcohol_file, output_file, common_column="state"):
 
     # Save to new TSV file
     merged_df.to_csv(output_file, sep="\t", index=False)
-    print(f"✅ Merged TSV file saved at: {os.path.abspath(output_file)}")
+    print(f"Merged TSV file saved at: {os.path.abspath(output_file)}")
 
 
 # Define file paths

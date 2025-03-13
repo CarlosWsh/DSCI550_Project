@@ -31,7 +31,7 @@ def check_file_existence(file_path):
         bool: True if the file exists, otherwise False.
     """
     if not os.path.exists(file_path):
-        print(f"❌ Error: File not found at {os.path.abspath(file_path)}")
+        print(f"Error: File not found at {os.path.abspath(file_path)}")
         return False
     return True
 
@@ -75,7 +75,7 @@ def load_csv(file_path):
         return df
 
     except Exception as e:
-        print(f"❌ Error loading CSV: {e}")
+        print(f"Error loading CSV: {e}")
         return None
 
 # Step 4: Clean and Process Data
@@ -115,7 +115,7 @@ def save_to_tsv(df, output_path):
         output_path (str): The path where the TSV file should be saved.
     """
     df.to_csv(output_path, sep="\t", index=False)
-    print(f"✅ File successfully converted to TSV: {os.path.abspath(output_path)}")
+    print(f"File successfully converted to TSV: {os.path.abspath(output_path)}")
 
 # Main Function
 def main():

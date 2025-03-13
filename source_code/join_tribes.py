@@ -37,7 +37,7 @@ def tribes_merge(hp_analysis_file, state_tribes_file, output_file_final):
 
     # Save the final merged dataset to TSV
     final_merged_df.to_csv(output_file_final, sep="\t", index=False)
-    print(f"✅ Final merged TSV file saved at: {os.path.abspath(output_file_final)}")
+    print(f"Final merged TSV file saved at: {os.path.abspath(output_file_final)}")
 
 
 # Define file paths
