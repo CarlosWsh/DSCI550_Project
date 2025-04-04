@@ -3,8 +3,8 @@ import os
 
 # Define relative file paths
 base_path = os.path.join("..","data", "processed")
-input_file = os.path.join(base_path, "hp_analysis_final.tsv")
-output_file = os.path.join(base_path, "hp_analysis_final.tsv")
+input_file = os.path.join(base_path, "hp_analysis_hw2.tsv")
+output_file = os.path.join(base_path, "hp_analysis_hw2.tsv")
 columns_output_file = os.path.join(base_path, "hp_analysis_final_columns.txt")
 
 # Read the TSV file, dropping unnamed index columns if they exist

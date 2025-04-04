@@ -16,7 +16,7 @@ def merge_all():
 
     # Define file paths
     hp_file = os.path.join(processed_dir, "hp_analysis_v2.tsv")
-    final_output_file = os.path.join(processed_dir, "hp_analysis_final.tsv")
+    final_output_file = os.path.join(processed_dir, "hp_analysis_hw2.tsv")
 
     # Merge each dataset separately
     alcohol_output = os.path.join(processed_dir, "hp_analysis_alcohol.tsv")
